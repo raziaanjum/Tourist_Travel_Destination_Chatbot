@@ -1,7 +1,18 @@
-# Tourist_Travel_Destination_Chatbot
+# Tourist_Travel_Destination_Chatbot ✈️
 A Multimodal AI Tourist Travel Destination Chatbot using GPT-2, Stable Diffusion, Python Imaging Library (PIL) for Image Captioning. The app generates travel blogs, stories, travel guides, destination images, and image descriptions through an interactive Gradio interface, showcasing Generative AI, NLP, and Computer Vision capabilities.
 
-### AI Tourist Travel Destination Chatbot
+─────────────────────────────
+🛠️ Tech Stack
+─────────────────────────────
+Python | Gradio | Hugging Face | Transformers | Stable Diffusion | PIL | Kaggle
+
+─────────────────────────────
+📌 Link to Access 
+─────────────────────────────
+The complete project including notebook, visualizations, and documentation — is available on my Kaggle:
+🔗 https://www.kaggle.com/code/raziashah/tourist-travel-destination-chatbot
+
+### More Details about Chatbot
 
 The AI Tourist Travel Destination Chatbot is a multimodal Generative AI application developed using Python, Gradio, Hugging Face Transformers, and Stable Diffusion. The system combines Natural Language Processing (NLP), Computer Vision, and Generative AI to provide an interactive travel experience through multiple AI-powered services.
 
