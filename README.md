@@ -4,12 +4,15 @@ A Multimodal AI Tourist Travel Destination Chatbot using GPT-2, Stable Diffusion
 ─────────────────────────────
 🛠️ Tech Stack
 ─────────────────────────────
+
 Python | Gradio | Hugging Face | Transformers | Stable Diffusion | PIL | Kaggle
 
 ─────────────────────────────
 📌 Link to Access 
 ─────────────────────────────
+
 The complete project including notebook, visualizations, and documentation — is available on my Kaggle:
+
 🔗 https://www.kaggle.com/code/raziashah/tourist-travel-destination-chatbot
 
 ### More Details about Chatbot
